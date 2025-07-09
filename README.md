@@ -14,10 +14,14 @@ Welcome to the **Amazon UI Clone** – a clean, pixel-perfect replica of the Ama
 - ✅ Built with only HTML5 and pure CSS3
 
 ---
-
 ## 📸 Preview
 
-![Amazon Clone Screenshot](./amazon.png)(./amazon2.png)
+### 🖥️ Desktop View 1  
+![Amazon Clone Screenshot 1](./amazon.png)
+
+### 🖥️ Desktop View 2  
+![Amazon Clone Screenshot 2](./amazon2.png)
+
 
 ---
 
