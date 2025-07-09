@@ -17,7 +17,7 @@ Welcome to the **Amazon UI Clone** – a clean, pixel-perfect replica of the Ama
 
 ## 📸 Preview
 
-![Amazon Clone Screenshot](./amazon.png)
+![Amazon Clone Screenshot](./amazon.png)(./amazon2.png)
 
 ---
 
